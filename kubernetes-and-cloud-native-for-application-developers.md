@@ -23,14 +23,58 @@ A full day.
 ## Content
 
 1. Docker
+
+    * Creating the Dockerfile
+    * Running Commands in a Container
+
 1. Docker Compose
-1. Minikube
-1. kubectl
-1. Ingress
+
+    * Running containers on a single server
+
+1. Kubernetes
+
+    * Creating a Deployment
+    * Multi-Container Pod
+    * Basics of Depolyment Configuration
+    * Basics of Security
+
+1. Exposing Applications
+
+    * Services
+    * Ingress
+
 1. Helm
+
+    * Why?
+    * Concepts
+    * Hands-on
+
 1. Observability
+
+    * Prometheus
+    * PromQL
+    * Grafana dashboards
+    * Hands-on
+
 1. GitOps
+
+    * What is GitOps?
+    * How to implement GitOps?
+    * Flux vs Argo
+    * Hands-on
+
 1. Advanced Topics – Overview
+
+    * Docker
+        * Multi-stage builds
+    * Kubernetes
+        * ConfigMaps vs Secrets
+        * Kubernetes resources
+        * Self-healing
+        * Security
+        * Storage
+    * Observability
+        * Elasticsearch and Kibana
 
 ## Prerequisites
 
