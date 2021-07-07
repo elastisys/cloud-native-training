@@ -10,14 +10,23 @@ Then this is the course for you!
 
 This traning is suitable for anybody generally interested in how Kubernetes and cloud native can be used to achieve scalable and highly available application architectures; developers, operations teams and general management.
 
+## Format
+
+The training is delivered in a form of lectures in which we cover not only the basic concepts but also give necessary context, provide relevant examples, and explain business benefits.
+
+## Duration
+
+Half a day.
+
 ## Content
 
 1. On modern software design and deployment
-1. Cloud Native
+1. What is Cloud Native?
 1. Containers and container orchestration
-1. Kubernetes
-1. Helm
-1. Observability
+1. Overview of Kubernetes
+1. Application deployment with Helm
+1. Observability / Telemetry
+1. Compliance in the Cloud Native World
 
 ## Prerequisites
 
