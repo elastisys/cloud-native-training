@@ -36,7 +36,7 @@ A full day.
 
 Must haves:
 
-* Basic understaning of Kubernetes (e.g. from the [Kubernetes and cloud native essentials traning](kubernetes-and-cloud-native-essentials.md))
+* Basic understaning of Kubernetes (e.g. from the [Kubernetes and Cloud Native Essentials training](kubernetes-and-cloud-native-essentials.md))
 * Comfortable with command-line and shell (e.g. Bash)
 * Basic understanding of HTTPS and REST
 * Experience with developing, configuring and/or deploying web-based server applications (e.g., Python Flask, NodeJS, Ruby on Rails, Java Spring, Go net, etc.)
@@ -47,4 +47,4 @@ Nice to haves:
 * Linux administration
 * Docker
 
-Depending on customer requests, we can tailor the course more towards on-premises installations or public cloud.
+Depending on customer requests, we usually can also tailor the course more towards on-premises installations, any specific public cloud or domain specific use cases or technologies.
