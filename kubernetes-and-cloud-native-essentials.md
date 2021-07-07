@@ -21,12 +21,46 @@ Half a day.
 ## Content
 
 1. On modern software design and deployment
+
+    * Lean thinking
+    * DevOps
+    * Cloud appliation requirements
+
 1. What is Cloud Native?
+
+    * Cloud Native Landscape
+    * Cloud Native Trail Map
+
 1. Containers and container orchestration
+
+    * Why containers?
+    * What are containers?
+    * Why multiple servers?
+    * Challenges with multiple servers
+
 1. Overview of Kubernetes
+
+    * What Is Kubernetes?
+    * Components of Kubernetes
+    * Kubernetes Architecture
+    * Terminology
+
 1. Application deployment with Helm
+
+    * Why Helm?
+
 1. Observability / Telemetry
-1. Compliance in the Cloud Native World
+
+    * Why observability?
+    * Traces
+    * Logging Tools
+    * Monitoring
+
+1. Compliance in the Cloud Native world
+
+    * Compliance 101
+    * Procedures and IT solutions
+    * Compliant Kubernetes
 
 ## Prerequisites
 
