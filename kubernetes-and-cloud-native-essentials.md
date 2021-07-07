@@ -8,7 +8,7 @@ Then this is the course for you!
 
 ## Target audience
 
-This traning is suitable for anybody generally interested in how Kubernetes and cloud native can be used to achieve scalable and highly available application architectures; developers, operations teams and general management.
+This training is suitable for anybody generally interested in how Kubernetes and cloud native can be used to achieve scalable and highly available application architectures; developers, operations teams and general management.
 
 ## Format
 
