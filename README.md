@@ -6,3 +6,4 @@ This repository contains training materials for cloud native technologies create
 
 * [Kubernetes and Cloud Native Essentials](kubernetes-and-cloud-native-essentials)
 * [Kubernetes and Cloud Native for Application Developers](kubernetes-and-cloud-native-for-application-developers)
+* [Kubernetes for App Developers (LFD459)](https://training.linuxfoundation.org/training/kubernetes-for-app-developers/)
