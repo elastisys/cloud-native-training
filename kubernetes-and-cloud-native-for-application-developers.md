@@ -35,7 +35,7 @@ A full day.
 
     * Creating a Deployment
     * Multi-Container Pod
-    * Basics of Depolyment Configuration
+    * Basics of Deployment Configuration
     * Basics of Security
 
 1. Exposing Applications
@@ -45,7 +45,7 @@ A full day.
 
 1. Helm
 
-    * Why?
+    * Why Helm?
     * Concepts
     * Hands-on
 
@@ -80,7 +80,7 @@ A full day.
 
 Must haves:
 
-* Basic understaning of Kubernetes (e.g. from the [Kubernetes and Cloud Native Essentials training](kubernetes-and-cloud-native-essentials.md))
+* Basic understanding of Kubernetes (e.g. from the [Kubernetes and Cloud Native Essentials training](kubernetes-and-cloud-native-essentials.md))
 * Comfortable with command-line and shell (e.g. Bash)
 * Basic understanding of HTTPS and REST
 * Experience with developing, configuring and/or deploying web-based server applications (e.g., Python Flask, NodeJS, Ruby on Rails, Java Spring, Go net, etc.)
